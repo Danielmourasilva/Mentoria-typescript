@@ -1,5 +1,4 @@
-# Mentoria-typescript
-Desafio da Dio typescript
+
 # Aula de Typescript da Take na plataforma DIO
   
 *Bem vindo!!*
